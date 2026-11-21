@@ -1,4 +1,4 @@
-![Banner de Encabezado](./images/header.png)
+![Banner de Encabezado](./images/header.jpeg)
 
 # Hola, soy Diego Fernando Rodríguez Vargas 👋
 
