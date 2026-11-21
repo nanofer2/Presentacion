@@ -40,11 +40,11 @@ Actualmente formo parte del equipo de **Transformación Digital de la DIAN**, pa
 ![Enterprise Architecture](https://img.shields.io/badge/Arquitectura%20Empresarial-1E293B?style=for-the-badge&logo=buffer&logoColor=white)
 
 ### **Habilidades Blandas (Soft Skills)**
-* ✅ Liderazgo de equipos
-* ✅ Trabajo colaborativo
-* ✅ Manejo de la frustración y resiliencia
-* ✅ Comunicación asertiva
-* ✅ Adaptación al cambio
+- ✅ Liderazgo de equipos
+- ✅ Trabajo colaborativo
+- ✅ Manejo de la frustración y resiliencia
+- ✅ Comunicación asertiva
+- ✅ Adaptación al cambio
 
 ---
 
@@ -62,39 +62,42 @@ Actualmente formo parte del equipo de **Transformación Digital de la DIAN**, pa
 ### **UAE DIAN** | *2011 – Actualidad*
 **Rol:** Desarrollador de Software Sr., Analista de Software, Arquitecto Empresarial Jr.
 
-* **Desarrollo y Arquitectura:** Análisis, diseño y desarrollo de nuevas soluciones en **Java** con bases de datos **Oracle**, bajo metodología **RUP**.
-* **Mantenimiento Evolutivo:** Ajustes, actualización y mantenimiento continuo de funcionalidades críticas.
-* **Modelado de Procesos:** Análisis y diseño de procesos de negocio aduaneros utilizando diagramas **BPMN** y especificación de requerimientos.
-* **Liderazgo Técnico:** Líder de grupo, brindando soporte técnico y de negocio para la implementación de mejoras en los sistemas.
-* **Transformación Digital:** Participación activa en la actualización de estados *As-Is* y *To-Be* de la entidad para la modernización de proyectos institucionales.
+- **Desarrollo y Arquitectura:** Análisis, diseño y desarrollo de nuevas soluciones en **Java** con bases de datos **Oracle**, bajo metodología **RUP**.
+- **Mantenimiento Evolutivo:** Ajustes, actualización y mantenimiento continuo de funcionalidades críticas.
+- **Modelado de Procesos:** Análisis y diseño de procesos de negocio aduaneros utilizando diagramas **BPMN** y especificación de requerimientos.
+- **Liderazgo Técnico:** Líder de grupo, brindando soporte técnico y de negocio para la implementación de mejoras en los sistemas.
+- **Transformación Digital:** Participación activa en la actualización de estados *As-Is* y *To-Be* de la entidad para la modernización de proyectos institucionales.
 
 ### **IBISCOM** | *2009 – 2011*
 **Rol:** Desarrollador de Software Jr.
 
-* **Desarrollo Full-Stack / Backend:** Análisis, diseño y codificación en **Java** integrando motores de bases de datos como **Oracle, MySQL, PostgreSQL y Apache Derby**.
-* **Proyecto SIPO:** Levantamiento de requerimientos, desarrollo, capacitación a usuarios y puesta en producción del aplicativo.
-* **Proyecto SIDER (INCODER):** Modelado de procesos de negocio mediante diagramas **BPMN**, diseño y codificación de requerimientos.
+- **Desarrollo Full-Stack / Backend:** Análisis, diseño y codificación en **Java** integrando motores de bases de datos como **Oracle, MySQL, PostgreSQL y Apache Derby**.
+- **Proyecto SIPO:** Levantamiento de requerimientos, desarrollo, capacitación a usuarios y puesta en producción del aplicativo.
+- **Proyecto SIDER (INCODER):** Modelado de procesos de negocio mediante diagramas **BPMN**, diseño y codificación de requerimientos.
 
 ---
 
 ## 🎓 Educación
 
-* **Magíster en Arquitectura de Tecnologías de la Información**  
+- **Candidato a Magíster en Ingeniería**  
+  *Universidad Santo Tomás (Seccional Tunja)* | En curso
+
+- **Magíster en Arquitectura de Tecnologías de la Información**  
   *Universidad de los Andes* | 2014 – 2017  
   *Proyecto de grado (Modalidad Práctica):* Implementación de Arquitectura de Datos para la empresa Seguros Mundial.
 
-* **Especialista en Construcción de Software**  
+- **Especialista en Construcción de Software**  
   *Universidad de los Andes* | 2013 – 2014  
   *Proyecto de grado (Modalidad Práctica):* Laboratorio Marketplace de los Alpes (arquitectura empresarial e implementación y desarrollo de componentes).
 
-* **Ingeniero de Sistemas y Computación**  
+- **Ingeniero de Sistemas y Computación**  
   *Universidad Pedagógica y Tecnológica de Colombia (UPTC)* | 2002 – 2008
 
 ---
 
 ## 🏆 Reconocimientos
 
-* **Felicitación Oficial – Embajada de los Estados Unidos:** Por el cumplimiento exitoso de objetivos y entrega puntual en la implementación del sistema para el Tratado de Libre Comercio (TLC).
+- **Felicitación Oficial – Embajada de los Estados Unidos:** Por el cumplimiento exitoso de objetivos y entrega puntual en la implementación del sistema para el Tratado de Libre Comercio (TLC).
 
 ---
 
